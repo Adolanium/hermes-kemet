@@ -1,6 +1,6 @@
 name: hermes-ennead
 version: "0.1.0"
-description: "Egyptian gods for Hermes Desktop: themes in carved relief and gold leaf. Unofficial; not affiliated with Nous Research."
+description: "Twelve Egyptian gods for Hermes Desktop, carved in painted relief and gold leaf: Thoth, Ra, Isis, Osiris, Anubis, Horus, Bastet, Sekhmet, Set, Nut, Ptah and Hathor. Unofficial; not affiliated with Nous Research."
 author: Adolanium
 manifest_version: 1
 kind: standalone
