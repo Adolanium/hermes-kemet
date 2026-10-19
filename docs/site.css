@@ -1,4 +1,4 @@
-/* Ennead site. The page wears the open god's palette: site.js writes the
+/* Kemet site. The page wears the open god's palette: site.js writes the
    --bg / --ink / ... properties on :root and they crossfade. */
 
 @font-face { font-family: 'Bodoni Moda'; src: url(assets/fonts/BodoniModa-var.woff2) format('woff2'); font-weight: 700 900; font-display: swap; }

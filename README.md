@@ -4,7 +4,7 @@
     <img src="https://github.com/user-attachments/assets/ac2f5702-c842-4b2e-9340-737481fa0ece" width="96" height="96" alt="Nous Research Hermes mark" />
   </a>
 
-  # Ennead
+  # Kemet
 
   **Twelve Egyptian gods for your Hermes desktop.**
 
@@ -16,7 +16,7 @@
 
   <br /><br />
 
-  [See all twelve live](https://adolanium.github.io/hermes-ennead/) &nbsp;·&nbsp; [Try it in a minute](#try-it-in-a-minute) &nbsp;·&nbsp; [Meet the twelve](#meet-the-twelve) &nbsp;·&nbsp; [Switch any time](#switch-any-time)
+  [See all twelve live](https://adolanium.github.io/hermes-kemet/) &nbsp;·&nbsp; [Try it in a minute](#try-it-in-a-minute) &nbsp;·&nbsp; [Meet the twelve](#meet-the-twelve) &nbsp;·&nbsp; [Switch any time](#switch-any-time)
 
 </div>
 
@@ -29,7 +29,7 @@ You need Hermes Desktop 0.22.2 or later. You don't need a terminal.
 **1. Install.** In Hermes Desktop, open **Capabilities → Plugins** and click **Install from Git**. Paste this address, click **Review repository**, then install:
 
 ```text
-https://github.com/Adolanium/hermes-ennead
+https://github.com/Adolanium/hermes-kemet
 ```
 
 <details>
@@ -38,14 +38,14 @@ https://github.com/Adolanium/hermes-ennead
 <br />
 
 ```sh
-hermes plugins install Adolanium/hermes-ennead
+hermes plugins install Adolanium/hermes-kemet
 ```
 
-If it asks whether to enable the plugin, either answer works. That switch is for the agent side, and Ennead has nothing there.
+If it asks whether to enable the plugin, either answer works. That switch is for the agent side, and Kemet has nothing there.
 
 </details>
 
-**2. Turn it on.** **Ennead** now appears in **Capabilities → Plugins**. Flip its **Desktop** switch on. Desktop plugins installed from a package start turned off, and this is the step people miss.
+**2. Turn it on.** **Kemet** now appears in **Capabilities → Plugins**. Flip its **Desktop** switch on. Desktop plugins installed from a package start turned off, and this is the step people miss.
 
 **3. Pick a god.** Type this in the message box and press Enter:
 
@@ -69,7 +69,7 @@ Click a card to see the full window.
 
 ## Switch any time
 
-Every Ennead theme is a normal Hermes theme, so all the usual ways to switch work:
+Every Kemet theme is a normal Hermes theme, so all the usual ways to switch work:
 
 | Where | What to do |
 | --- | --- |
@@ -93,16 +93,16 @@ Hermes remembers your choice for each profile, so a work profile can keep Thoth 
 ## Update or remove
 
 ```sh
-hermes plugins update hermes-ennead
-hermes plugins remove hermes-ennead
+hermes plugins update hermes-kemet
+hermes plugins remove hermes-kemet
 ```
 
-Or use **Capabilities → Plugins**: switch **Ennead** off to hide the themes, or remove it from there. If an Ennead theme was active, Hermes goes back to its default theme.
+Or use **Capabilities → Plugins**: switch **Kemet** off to hide the themes, or remove it from there. If a Kemet theme was active, Hermes goes back to its default theme.
 
 ## What it touches
 
 - **Theme registration** through the Desktop plugin SDK, the same way any theme plugin adds itself to the picker.
-- **Style rules** that apply only while an Ennead theme is active, and disappear when you switch away.
+- **Style rules** that apply only while a Kemet theme is active, and disappear when you switch away.
 - **Fonts**, bundled inside the plugin under the [SIL Open Font License](LICENSES): IBM Plex Sans and IBM Plex Mono for the interface, and one wordmark face per god: Marcellus (Thoth), Limelight (Ra), Federo (Isis), Cinzel (Osiris), Forum (Anubis), Josefin Slab (Horus), Gilda Display (Bastet), Abril Fatface (Sekhmet), Alfa Slab One (Set), Cormorant SC (Nut), Tenor Sans (Ptah), Yeseva One (Hathor).
 
 It makes no network requests, adds no agent tools, hooks, background processes or settings, and reads none of your data.
@@ -118,7 +118,7 @@ The cartouche, register lines and placement of the art style Hermes Desktop's ow
 
 ## More gods
 
-Ennead is one of three packs. They install side by side, and none of their theme names overlap, so every god shows up in the same picker.
+Kemet is one of three packs. They install side by side, and none of their theme names overlap, so every god shows up in the same picker.
 
 - **[Pantheon](https://github.com/Adolanium/hermes-pantheon)**: 18 Greek gods in dithered marble, all twelve Olympians and more. [See them live](https://adolanium.github.io/hermes-pantheon/).
 - **[Asgard](https://github.com/Adolanium/hermes-asgard)**: 12 Norse gods carved in runestone and wood. [See them live](https://adolanium.github.io/hermes-asgard/).
@@ -126,7 +126,7 @@ Ennead is one of three packs. They install side by side, and none of their theme
 <br />
 
 <div align="center">
-  <strong>Ennead</strong><br />
+  <strong>Kemet</strong><br />
   <sub>Twelve gods, carved in gold.</sub>
 </div>
 
@@ -138,4 +138,4 @@ Ennead is one of three packs. They install side by side, and none of their theme
 
 > **Community project**
 >
-> Ennead is an independent community theme pack. It is not affiliated with, endorsed by, sponsored by, or officially associated with [Nous Research](https://github.com/NousResearch) or the [Hermes Agent project](https://github.com/NousResearch/hermes-agent). Hermes, Hermes Agent, and Nous Research are names and marks belonging to their respective owners.
+> Kemet is an independent community theme pack. It is not affiliated with, endorsed by, sponsored by, or officially associated with [Nous Research](https://github.com/NousResearch) or the [Hermes Agent project](https://github.com/NousResearch/hermes-agent). Hermes, Hermes Agent, and Nous Research are names and marks belonging to their respective owners.

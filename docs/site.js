@@ -2,7 +2,7 @@
 // the /skin box, a name chip, or #name in the URL) swings it wide, reveals the
 // real screenshot through an ordered dither, and moves the page to its palette.
 ;(() => {
-  const THEMES = window.ENNEAD
+  const THEMES = window.KEMET
   const byName = Object.fromEntries(THEMES.map(t => [t.name, t]))
   const root = document.documentElement
   const colonnade = document.getElementById('colonnade')
