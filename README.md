@@ -12,7 +12,7 @@
   their own lettering, and a temple wall that frames the HERMES AGENT name in a cartouche.
   It starts with Thoth, the ibis-headed scribe the Greeks called Hermes.
 
-  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.1.0</sub>
+  <sub>FOR <a href="https://github.com/NousResearch/hermes-agent">HERMES DESKTOP</a> &nbsp;·&nbsp; COMMUNITY THEMES &nbsp;·&nbsp; VERSION 0.2.2</sub>
 
   <br /><br />
 
